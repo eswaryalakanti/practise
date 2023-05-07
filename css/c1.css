@@ -58,3 +58,9 @@ li{
     border-color: rgb(68, 36, 36);
     background-color: rgb(201, 132, 89);
 }
+footer a{
+    margin: 0px;
+    padding: 10px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.2);
+}
