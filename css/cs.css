@@ -1,0 +1,30 @@
+body{
+    background-color:bisque;
+}
+hr{
+    background-color:blue;
+    border-style:none;
+    border-style:dotted none none none;
+    border-width:5px;
+    border-color:red;
+    width:20%;
+    height: 1px;
+}
+#image{
+    bottom-radius:100%;
+}
+#para:hover{
+    color:aqua;
+}
+img{
+background-color: red;
+}
+li{
+    list-style: circle;
+}
+ol{
+    list-style: square;
+}
+/* li{
+    list-style: circle;
+} */
